@@ -16,11 +16,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="0.5"
+        android:background="#ff0000"
         android:id="@+id/ivImage"/>
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="0.5"
+        android:background="#00ff00"
         android:id="@+id/ivImageProcessed"/>
 
     </LinearLayout>
